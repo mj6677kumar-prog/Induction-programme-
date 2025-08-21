@@ -43,3 +43,23 @@ At the end of the program, our senior students introduced us to GitHub and guide
 
 ## Conclusion
 Day 2 of the Induction Program was informative, inspiring, and full of learning experiences. It gave us valuable insights into scholarships, health.
+
+
+# Induction programme- Day 3:-
+- Session 1: 9:00 AM - 11:00 AM
+- Topic: Illuminating Young Minds with Physics and Mathematics
+- Speaker: Dr. Jaswinder Singh (Incharge, Indian Association of Physics Teachers - IAPT)
+- Venue: Auditorium
+
+Dr. Jaswinder Singh, a renowned education professional, science communicator, and innovator from Punjab, delivered an engaging lecture on the fundamentals of physics and mathematics. As a member of IAPT's Regional Council (RC-02) and a lecturer at Govt. Sr. Sec. School, Patiala, Dr. Singh is known for his innovative approaches, such as "JaswinS Lab on Wheels," which makes science accessible and exciting. During the session, he covered key concepts like the secrets of the universe, basic scientific principles, and their applications in everyday life and engineering. He emphasized the importance of hands-on learning and innovation, using interactive demonstrations to captivate the audience. 
+
+- Session 2: 11:00 AM - 1:00 PM
+- Topic: Universal Human Values
+- Speaker: Dr. Priya Darshini
+- Venue: Auditorium
+
+Dr. Priya Darshini, an expert in Universal Human Values (UHV) and a frequent resource person for AICTE Faculty Development Programs (FDPs), presented on "Universal Human Values." With her background in facilitating UHV workshops and co-facilitating sessions in institutions like Gulzar Group of Institutes and others, she explored concepts such as harmony in self, family, society, and nature. The lecture highlighted how these values are integral to ethical engineering practices, promoting concepts like trust, respect, and sustainable development. Interactive elements included group discussions on real-life scenarios, helping students reflect on personal and professional ethics
+#### Attendance and Participation
+The program saw enthusiastic participation from first-year students across the Robotics & AI, ME, CE, EE, and ECE departments. Faculty coordinators ensured smooth execution, with feedback forms collected at the end of each session indicating high satisfaction levels (average rating: 4.5/5). Key highlights included the interactive Q&A segments, which fostered engagement.
+## Conclusion
+The Induction Programme on August 2, 2025, successfully achieved its goals by blending scientific enlightenment with value-based education, setting a strong tone for the academic year. Dr. Jaswinder Singh's session ignited passion for STEM fields, while Dr. Priya Darshini's lecture on Universal Human Values instilled a sense of ethical responsibility essential for future engineers. Overall, the event reinforced AICTE's vision of holistic student development, promoting not just technical skills but also personal growth and societal harmony. This day marked a positive step in nurturing well-rounded professionals ready to contribute to innovation and sustainability.
